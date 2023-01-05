@@ -41,3 +41,18 @@ You can click the Preview link to take a look at your changes.
 [hackerRank]: https://www.hackerrank.com/smrdnmz43
 [stackOverlow]: https://stackoverflow.com/users/20488807/semra-akgedik
 [patika]: https://app.patika.dev/rivriv
+
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rivrivsem&label=Profile%20views&color=0e75b6&style=flat" alt="rivrivsem" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rivrivsem" alt="rivrivsem" /></a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rivrivsem&show_icons=true&locale=en&layout=compact" alt="rivrivsem" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rivrivsem&show_icons=true&locale=en" alt="rivrivsem" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rivrivsem&" alt="rivrivsem" /></p>
