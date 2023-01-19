@@ -47,11 +47,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rivrivsem&show_icons=true&locale=en&layout=compact" alt="rivrivsem" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rivrivsem&show_icons=true&locale=en" alt="rivrivsem" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rivrivsem&" alt="rivrivsem" /></p>
 
 
 
