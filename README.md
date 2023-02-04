@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/> 
 
+
 ## Connect with me:
 [<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="stackOverflow | StackOverflow" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036" />][stackOverlow]
@@ -43,6 +44,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 [hackerRank]: https://www.hackerrank.com/smrdnmz43
 [stackOverlow]: https://stackoverflow.com/users/20488807/semra-akgedik
 [patika]: https://app.patika.dev/rivriv
+
+
+
+[![snake gif](https://github.com/atilgannnn/atilgannnn/blob/output/github-contribution-grid-snake.gif)
+](https://platane.github.io/snk/)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 
 
