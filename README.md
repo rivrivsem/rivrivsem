@@ -21,10 +21,10 @@ You can click the Preview link to take a look at your changes.
 
 [<img align="left" alt="hackerrank | HackerRank" width="36px" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" />][hackerRank]
 <p align="left">
-<a href="https://medium.com/@smrdnmz43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@smrdnmz43" height="30" width="40" /></a>
+<a href="https://medium.com/@smrdnmz43" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@smrdnmz43" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://twitter.com/@smrakgdk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@smrakgdk" height="30" width="40" /></a>
+<a href="https://twitter.com/@smrakgdk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@smrakgdk" height="30" width="40" /></a>
 </p>
 
 
