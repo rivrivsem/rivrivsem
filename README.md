@@ -1,20 +1,24 @@
 - 👋 Hi, I’m Semra
 - :cactus: I’m interested in Programming
 - 🌖 I’m a Full-Stack Developer
--    I am a solution-oriented developer,lifelong learner with software experience.
--    I enjoy development because of the satisfaction I have in dealing with challenges. 
+-  I am a solution-oriented developer,lifelong learner with software experience.
+-   I enjoy development because of the satisfaction I have in dealing with challenges. 
 -    The ability of software to positively affect an individual's life and the world as a whole motivates me.
 -    🌏 🌎 🌏
+
+
 
 <!---
 rivrivsem/rivrivsem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img align = "right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <br/>
 <br/> 
 
 
+  
 ## Connect with me:
 [<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="stackOverflow | StackOverflow" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036" />][stackOverlow]
@@ -60,7 +64,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"  title="FIGMA"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"  title="ILLUSTRATOR"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/> </a>&nbsp;&nbsp;
-
 
  
 
