@@ -13,11 +13,7 @@ rivrivsem/rivrivsem is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-
 <br/>
-<br/> 
 
 <img align = "center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
