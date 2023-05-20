@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 [linkedin]: https://www.linkedin.com/in/semra-a-1903bjk/
 [hackerRank]: https://www.hackerrank.com/smrdnmz43
 [stackOverlow]: https://stackoverflow.com/users/20488807/semra-akgedik
-[patika]: https://app.patika.dev/rivriv
+
 
 
 ## Backend
