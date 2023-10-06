@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Semra
 - :cactus: I’m interested in Programming
-- 🌖 I’m a Full-Stack Developer
+- 🌖 I’m a Full-Stack Developer and
+- 🌖 I'm also Game Developer 
 -  I am a solution-oriented developer,lifelong learner with software experience.
 -   I enjoy development because of the satisfaction I have in dealing with challenges. 
 -    The ability of software to positively affect an individual's life and the world as a whole motivates me.
