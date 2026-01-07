@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
   
 ## Connect with me:
-[<img align="left" alt="stackOverflow | StackOverflow" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036" />][stackOverlow]
+
 
 [<img align="left" alt="hackerrank | HackerRank" width="36px" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" />][hackerRank]
 <p align="left">
